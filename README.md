@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Johnson Muchemi
 
-<!--
-**Moshemmy/moshemmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning programming.
+- I'm interested in web development.
+- I'm looking to collaborate on sharpening skills on web development
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS
+_python
 
-Here are some ideas to get you started:
+## Current Projects
+- [Project name](link) — short description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to Reach Me
+- Email:moshemmy1@gmail.com
+-Phone no. 0110373747
